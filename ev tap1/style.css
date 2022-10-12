@@ -1,0 +1,42 @@
+body
+   {
+    background-color: grey ;
+   }
+    h1,h3
+    {
+        
+        color :  #8262FD;
+    }
+
+   span
+    {
+
+   color : yellow
+    }
+    hr
+    {
+        margin-top: -20px;
+    }
+    span.a 
+    {
+        color : red;
+    }
+    img
+    {
+    margin-left :70px;
+    }
+    p.b
+    {
+        margin-top:-20px;
+    }
+    p.c
+    {
+        margin-top:-40px;
+        margin-left:400px;
+    }
+    img.a
+    {
+     border : 5px solid red;
+    }
+    
+   
